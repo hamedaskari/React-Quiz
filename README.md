@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file for your quiz app on GitHub. Feel free to customize it according to your app's specific details:
 
----
 
 # Quiz App
 
