@@ -2,7 +2,7 @@
 
 # Quiz App
 
-Welcome to the Quiz App repository! This application is a simple quiz game that challenges users with 10 questions, each with a timer, and awards points based on correct answers. It's designed to provide an engaging and fun way for users to test their knowledge on various topics.
+Welcome to the Quiz App repository! This application is a simple quiz game that challenges users with 15 questions, each with a timer, and awards points based on correct answers. It's designed to provide an engaging and fun way for users to test their knowledge on various topics.
 
 ## Table of Contents
 - [Features](#features)
@@ -13,7 +13,7 @@ Welcome to the Quiz App repository! This application is a simple quiz game that 
 - [License](#license)
 
 ## Features
-- 10 thought-provoking questions to test your knowledge.
+- 15 thought-provoking questions to test your knowledge.
 - A timer for each question to add a sense of urgency.
 - Points awarded for correct answers.
 - Simple and intuitive user interface.
@@ -53,23 +53,10 @@ To get started with the Quiz App, follow these steps:
     - Points will be awarded for each correct answer.
 
 5. **Finish the Quiz:**
-    - Complete all 10 questions to finish the quiz.
+    - Complete all 15 questions to finish the quiz.
 
 6. **View Results:**
     - At the end of the quiz, see how many points you've earned.
 
 7. **Restart:**
     - Want to try again? Hit the "Restart" button to play another round.
-
-## Screenshots
-Include screenshots of your app in action to give users a visual preview.
-
-## Contributing
-We welcome contributions! If you find a bug, have a feature request, or want to contribute in any other way, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE.md).
-
----
-
-Feel free to replace the placeholder URLs and placeholders with actual information relevant to your app. This README provides a basic structure, and you can add more sections or details as needed.
