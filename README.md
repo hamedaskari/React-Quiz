@@ -2,6 +2,8 @@
 
 # Quiz App
 
+![Screenshot (110)](https://github.com/hamedaskari/React-Quiz/assets/63067445/5608da3b-8381-412e-b0ca-c9307095af47)
+
 Welcome to the Quiz App repository! This application is a simple quiz game that challenges users with 15 questions, each with a timer, and awards points based on correct answers. It's designed to provide an engaging and fun way for users to test their knowledge on various topics.
 
 ## Table of Contents
